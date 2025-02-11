@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Página-1" id="mq8DdAqobloqFYzCHXO2">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HenQAAs0XAkFm8J8VGgW-1" value="-nombre: String&lt;div&gt;-numControl: int&lt;/div&gt;&lt;div&gt;-promedio: double&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-carrera: String&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HenQAAs0XAkFm8J8VGgW-2" value="+cargarMateria(): void&lt;div&gt;+modificarEstatus(): boolean&lt;/div&gt;&lt;div&gt;+revisarHistorial(): void&lt;/div&gt;&lt;div&gt;+obtenerPromedio: double&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HenQAAs0XAkFm8J8VGgW-3" value="Alumno" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
